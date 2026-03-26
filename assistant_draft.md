@@ -1,0 +1,21 @@
+# Generative AI and Data Privacy: Opportunities and Challenges
+
+## About Me
+
+I am a student at Johns Hopkins University majoring in Information Systems and AI. Through this course, I am building foundational knowledge in generative AI with the goal of developing my own AI-powered applications and deepening my understanding of this rapidly evolving field.
+
+## Data Privacy and Generative AI
+
+Data privacy refers to the right of individuals to control how their personal information is collected, stored, and used. It becomes a significant concern with generative AI because these models are often trained on massive datasets that may contain sensitive or personally identifiable information — and they can inadvertently memorize, reproduce, or leak that data in their outputs, raising serious ethical, legal, and security risks.
+
+## Ways Generative AI Can Help with Data Privacy
+
+- **Synthetic data generation**: Creating realistic but artificial datasets that preserve statistical patterns without exposing real personal information, enabling safe model training and testing.
+- **Privacy policy summarization**: Automatically parsing and summarizing complex privacy policies into plain language, helping users make more informed decisions about their data.
+- **Anomaly and leak detection**: Analyzing system logs and model outputs to identify potential data leakage or privacy violations before they escalate.
+
+## Note
+
+- **Prompt I used** : Following is my prompt:  Then we need to create a file named assistant_draft.md. The file should contain: 1.a short title. Just give the title based on the content.  2.one short paragraph introducing you. I am a student in Johns Hopkins and my major is Information system and AI. I will try to develop my generative AI based on this course.  3.one short paragraph describing what is data privacy and why it is a problem when we use the generative AI. 4.one short bullet list of 3 ways generative AI might be useful in that area
+- **Evaluation** : The assistant understood my command correctly and successfully created the file under my instruction. Therefore on this part it did a really good job!
+- **Things need to clarify** :Here my assistant just offer some general thoughts about data privacy. I will try to give more details in the following part if required. 
