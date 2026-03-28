@@ -12,6 +12,7 @@ This repository contains coursework and assignments for the Generative AI course
 
 | Commit | Message |
 |--------|---------|
+| `87e023f` | README done! |
 | `07f37d6` | final version done! |
 | `51fa9ce` | add the assistant draft file |
 | `6f798f4` | Initial commit |
