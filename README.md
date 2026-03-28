@@ -16,3 +16,7 @@ This repository contains coursework and assignments for the Generative AI course
 | `07f37d6` | final version done! |
 | `51fa9ce` | add the assistant draft file |
 | `6f798f4` | Initial commit |
+
+## Assignment Vedio
+
+link:https://youtu.be/U6QhA9CnYvc
